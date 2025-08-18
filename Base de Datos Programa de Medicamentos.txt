@@ -1,0 +1,157 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2025-08-08 10:07:04
+LastUsageStatisticCall<|||>1<|||>2025-07-14 08:18:15
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,0
+MainWinOnMonitor<|||>3<|||>0
+MainWinWidth<|||>3<|||>697
+MainWinHeight<|||>3<|||>775
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,316
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,316,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,186
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,256
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>Esta PC
+LastActiveSession<|||>1<|||>Esta PC
+CreateDbCollation<|||>1<|||>latin1_swedish_ci
+ColWidths_frmTableEditor.listColumns<|||>1<|||>40,100,154,90,60,65,50,117,130,140,100,100
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>231,100,80,120,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>197,80,100,80,80,80
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,417
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+MainWinMaximized<|||>3<|||>1
+SessionManager_WindowLeft<|||>3<|||>290
+SessionManager_WindowTop<|||>3<|||>86
+DataFontSize<|||>3<|||>9
+FileDialogEncoding_MainForm<|||>3<|||>0
+querymemoheight<|||>3<|||>316
+DisplayBLOBsAsText<|||>3<|||>0
+DateTimeEditor_CursorPos_Type4<|||>3<|||>8
+FindDialogSearchHistory<|||>1<|||>citamedica<{{{><}}}>
+MainWinLeft<|||>3<|||>-7
+MainWinTop<|||>3<|||>0
+SQLFile0<|||>1<|||>C:\Users\camey\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-02-07_10-10-36-523.sql
+SQLFile1<|||>1<|||>C:\Users\camey\Downloads\backup_clases.sql
+Servers\Esta PC\SessionCreated<|||>1<|||>2025-01-18 18:45:12
+Servers\Esta PC\Host<|||>1<|||>127.0.0.1
+Servers\Esta PC\WindowsAuth<|||>3<|||>0
+Servers\Esta PC\CleartextPluginEnabled<|||>3<|||>0
+Servers\Esta PC\User<|||>1<|||>root
+Servers\Esta PC\Password<|||>1<|||>71766E776A718
+Servers\Esta PC\LoginPrompt<|||>3<|||>0
+Servers\Esta PC\Port<|||>1<|||>3306
+Servers\Esta PC\NetType<|||>3<|||>0
+Servers\Esta PC\Compressed<|||>3<|||>0
+Servers\Esta PC\LocalTimeZone<|||>3<|||>0
+Servers\Esta PC\QueryTimeout<|||>3<|||>30
+Servers\Esta PC\KeepAlive<|||>3<|||>20
+Servers\Esta PC\FullTableStatus<|||>3<|||>1
+Servers\Esta PC\Databases<|||>1<|||>
+Servers\Esta PC\Library<|||>1<|||>libmariadb.dll
+Servers\Esta PC\Comment<|||>1<|||>
+Servers\Esta PC\StartupScriptFilename<|||>1<|||>
+Servers\Esta PC\TreeBackground<|||>3<|||>536870911
+Servers\Esta PC\SSHtunnelActive<|||>3<|||>0
+Servers\Esta PC\SshExecutable<|||>1<|||>
+Servers\Esta PC\SSHtunnelHost<|||>1<|||>
+Servers\Esta PC\SSHtunnelHostPort<|||>3<|||>22
+Servers\Esta PC\SSHtunnelUser<|||>1<|||>
+Servers\Esta PC\SSHtunnelPassword<|||>1<|||>4
+Servers\Esta PC\SSHtunnelTimeout<|||>3<|||>4
+Servers\Esta PC\SSHtunnelPrivateKey<|||>1<|||>
+Servers\Esta PC\SSHtunnelPort<|||>3<|||>3307
+Servers\Esta PC\SSL_Active<|||>3<|||>0
+Servers\Esta PC\SSL_Key<|||>1<|||>
+Servers\Esta PC\SSL_Cert<|||>1<|||>
+Servers\Esta PC\SSL_CA<|||>1<|||>
+Servers\Esta PC\SSL_Cipher<|||>1<|||>
+Servers\Esta PC\SSL_Verification<|||>3<|||>2
+Servers\Esta PC\IgnoreDatabasePattern<|||>1<|||>
+Servers\Esta PC\LogFileDdl<|||>3<|||>0
+Servers\Esta PC\LogFileDml<|||>3<|||>0
+Servers\Esta PC\LogFilePath<|||>1<|||>C:\Users\camey\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\Esta PC\ServerVersionFull<|||>1<|||>5.7.44-log - MySQL Community Server (GPL)
+Servers\Esta PC\ConnectCount<|||>3<|||>54
+Servers\Esta PC\ServerVersion<|||>3<|||>50744
+Servers\Esta PC\LastConnect<|||>1<|||>2025-08-11 08:24:23
+Servers\Esta PC\lastUsedDB<|||>1<|||>criterio c
+Servers\Esta PC\clases|biblioteca_libros_copias\Sort<|||>1<|||>0_idlibro|
+Servers\Esta PC\clases|biblioteca_prestamo\Sort<|||>1<|||>0_idlibro|
+Servers\Esta PC\criterio c|cita medica\Sort<|||>1<|||>0_Doctor|
+Servers\Esta PC\QueryHistory\2<|||>1<|||>2025-06-11 15:30:32|criterio c|47|CREATE TABLE medicamentos_base (<{{{><}}}>    id INT PRIMARY KEY AUTO_INCREMENT,<{{{><}}}>    nombre VARCHAR(255),<{{{><}}}>    descripcion TEXT,<{{{><}}}>    imagen_path VARCHAR(255)<{{{><}}}>);<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\3<|||>1<|||>2025-06-11 16:10:16|criterio c|31|SHOW TABLES;<{{{><}}}>
+Servers\Esta PC\QueryHistory\4<|||>1<|||>2025-06-11 21:03:24|criterio c|391|SELECT table_name, constraint_name <{{{><}}}>FROM information_schema.key_column_usage <{{{><}}}>WHERE referenced_table_name = 'usuario' AND referenced_column_name = 'nombre';<{{{><}}}>
+Servers\Esta PC\QueryHistory\5<|||>1<|||>2025-06-11 21:38:53|criterio c|109|ALTER TABLE usuario ADD COLUMN id INT;<{{{><}}}>
+Servers\Esta PC\QueryHistory\6<|||>1<|||>2025-06-13 10:44:31|criterio c|78|SET @id := 0;<{{{><}}}>UPDATE usuario SET id = (@id := @id + 1)  WHERE nombre IS NOT NULL ;<{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\7<|||>1<|||>2025-06-13 10:46:27|criterio c|266|SELECT CONSTRAINT_NAME, TABLE_NAME<{{{><}}}>FROM information_schema.KEY_COLUMN_USAGE<{{{><}}}>WHERE REFERENCED_TABLE_NAME = 'usuario' AND REFERENCED_COLUMN_NAME = 'nombre';<{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\9<|||>1<|||>2025-06-14 11:53:29|criterio c|172|SELECT CONSTRAINT_NAME, TABLE_NAME<{{{><}}}>FROM information_schema.KEY_COLUMN_USAGE<{{{><}}}>WHERE REFERENCED_TABLE_NAME = 'usuario' AND REFERENCED_COLUMN_NAME = 'nombre';<{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\8<|||>1<|||>2025-06-14 11:54:21|criterio c|62|ALTER TABLE cita_medica DROP FOREIGN KEY cita_medica_ibfk_1;<{{{><}}}>ALTER TABLE medicamentos DROP FOREIGN KEY medicamentos_ibfk_1;<{{{><}}}>
+Servers\Esta PC\QueryHistory\10<|||>1<|||>2025-06-14 11:55:11|criterio c|62|ALTER TABLE usuario DROP PRIMARY KEY;<{{{><}}}>
+Servers\Esta PC\QueryHistory\11<|||>1<|||>2025-06-14 11:55:20|criterio c|94|ALTER TABLE usuario ADD PRIMARY KEY (id);<{{{><}}}>
+Servers\Esta PC\QueryHistory\12<|||>1<|||>2025-06-14 11:55:29|criterio c|47|ALTER TABLE usuario MODIFY COLUMN id INT AUTO_INCREMENT;<{{{><}}}>
+Servers\Esta PC\QueryHistory\13<|||>1<|||>2025-06-14 12:13:20|criterio c|93|ALTER TABLE cita_medica<{{{><}}}>ADD COLUMN usuario_id INT;<{{{><}}}>
+Servers\Esta PC\QueryHistory\14<|||>1<|||>2025-06-14 12:13:34|criterio c|62|ALTER TABLE cita_medica<{{{><}}}>ADD CONSTRAINT fk_cita_usuario<{{{><}}}>FOREIGN KEY (usuario_id) REFERENCES usuario(id);<{{{><}}}>
+Servers\Esta PC\QueryHistory\16<|||>1<|||>2025-06-14 12:58:26|criterio c|0|UPDATE cita_medica cm<{{{><}}}>JOIN usuario u ON cm.usuario_nombre = u.nombre<{{{><}}}>SET cm.usuario_id = u.id;<{{{><}}}>
+Servers\Esta PC\QueryHistory\15<|||>1<|||>2025-06-14 13:00:33|criterio c|15|SELECT usuario_id<{{{><}}}>FROM cita_medica<{{{><}}}>WHERE usuario_id NOT IN (SELECT id FROM usuario) AND usuario_id IS NOT NULL;<{{{><}}}>
+Servers\Esta PC\QueryHistory\17<|||>1<|||>2025-06-14 13:01:01|criterio c|0|SELECT id, COUNT(*) <{{{><}}}>FROM usuario <{{{><}}}>GROUP BY id <{{{><}}}>HAVING COUNT(*) > 1;<{{{><}}}>
+Servers\Esta PC\QueryHistory\18<|||>1<|||>2025-06-14 13:01:19|criterio c|16|SELECT usuario_id, COUNT(*) <{{{><}}}>FROM cita_medica <{{{><}}}>GROUP BY usuario_id <{{{><}}}>ORDER BY COUNT(*) DESC;<{{{><}}}>
+Servers\Esta PC\QueryHistory\19<|||>1<|||>2025-06-14 13:07:08|criterio c|0|DELETE FROM notas_medicas;<{{{><}}}>
+Servers\Esta PC\QueryHistory\20<|||>1<|||>2025-06-14 13:07:27|criterio c|0|DELETE FROM cita_medica;<{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\21<|||>1<|||>2025-06-14 13:07:46|criterio c|16|DELETE FROM medicamentos;<{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\22<|||>1<|||>2025-06-14 13:08:01|criterio c|15|<{{{><}}}>DELETE FROM usuario;<{{{><}}}>
+Servers\Esta PC\QueryHistory\23<|||>1<|||>2025-06-14 13:13:32|criterio c|31|CREATE TABLE medicamentos_usuario (<{{{><}}}>    id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    usuario_id INT,<{{{><}}}>    medicamento_base_id INT,<{{{><}}}>    fecha_inicio DATE,<{{{><}}}>    fecha_fin DATE,<{{{><}}}>    FOREIGN KEY (usuario_id) REFERENCES usuario(id),<{{{><}}}>    FOREIGN KEY (medicamento_base_id) REFERENCES medicamentos_base(id)<{{{><}}}>);<{{{><}}}>
+Servers\Esta PC\QueryHistory\25<|||>1<|||>2025-06-16 21:49:22|criterio c|63|DESCRIBE medicamentos;<{{{><}}}>DESCRIBE usuario;<{{{><}}}>
+Servers\Esta PC\QueryHistory\26<|||>1<|||>2025-06-16 21:50:40|criterio c|0|DESCRIBE usuario;<{{{><}}}>
+Servers\Esta PC\QueryHistory\28<|||>1<|||>2025-06-16 22:11:40|criterio c|15|DESCRIBE medicamentos;<{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\27<|||>1<|||>2025-06-17 18:11:22|criterio c|16|DESCRIBE usuario;<{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\29<|||>1<|||>2025-06-17 19:02:32|criterio c|62|CREATE TABLE asignacion_medicamento (<{{{><}}}>    id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    usuario_nombre VARCHAR(100),<{{{><}}}>    nombre_medicamento VARCHAR(100),<{{{><}}}>    fecha_inicio DATE,<{{{><}}}>    fecha_final DATE<{{{><}}}>);<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\30<|||>1<|||>2025-06-22 19:18:10|criterio c|47|CREATE TABLE recordatorios (<{{{><}}}>    id INT AUTO_INCREMENT PRIMARY KEY,<{{{><}}}>    usuario_nombre VARCHAR(100),<{{{><}}}>    nombre_medicamento VARCHAR(100),<{{{><}}}>    fecha_recordatorio DATETIME<{{{><}}}>);<{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\31<|||>1<|||>2025-06-23 17:53:58|criterio c|16|DESCRIBE medicamentos <{{{><}}}>
+Servers\Esta PC\QueryHistory\32<|||>1<|||>2025-06-23 18:06:35|criterio c|0|DESCRIBE asignacion_medicamento<{{{><}}}>
+Servers\Esta PC\QueryHistory\33<|||>1<|||>2025-06-24 09:57:08|criterio c|47|DESCRIBE recordatorios<{{{><}}}>
+Servers\Esta PC\QueryHistory\34<|||>1<|||>2025-06-24 11:11:49|criterio c|0|DESCRIBE asignacion_medicamento<{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\35<|||>1<|||>2025-06-24 12:09:02|criterio c|0|DESCRIBE medicamentos<{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\36<|||>1<|||>2025-06-24 13:51:56|criterio c|187|ALTER TABLE medicamentos_base ADD COLUMN frecuencia INT;<{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\37<|||>1<|||>2025-06-24 14:34:42|criterio c|140|ALTER TABLE medicamentos ADD COLUMN efectos VARCHAR(255);<{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\38<|||>1<|||>2025-06-24 22:08:12|criterio c|0|DESCRIBE medicamentos_base;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\39<|||>1<|||>2025-06-24 22:13:29|criterio c|94|ALTER TABLE medicamentos_base<{{{><}}}>ADD COLUMN dosis VARCHAR(100),<{{{><}}}>ADD COLUMN efectos TEXT;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\40<|||>1<|||>2025-06-24 22:21:02|criterio c|78|ALTER TABLE medicamentos_base DROP COLUMN efectos;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\41<|||>1<|||>2025-06-25 09:18:58|criterio c|125|ALTER TABLE recordatorios ADD COLUMN notificado TINYINT(1) DEFAULT 0;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\42<|||>1<|||>2025-06-25 09:26:54|criterio c|15|SELECT id, usuario_nombre, nombre_medicamento, fecha_recordatorio, notificado <{{{><}}}>FROM recordatorios <{{{><}}}>ORDER BY fecha_recordatorio;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\43<|||>1<|||>2025-06-25 16:46:49|criterio c|0|INSERT INTO recordatorios (usuario_nombre, nombre_medicamento, fecha_recordatorio, notificado)<{{{><}}}>VALUES ('Edgar', 'Ibuprofeno', DATE_ADD(NOW(), INTERVAL 1 MINUTE), 0);<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\44<|||>1<|||>2025-06-30 19:31:10|criterio c|16|SELECT Nombre, ruta_imagen FROM usuario;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\1<|||>1<|||>2025-07-01 09:53:57|criterio c|78|DESCRIBE notas_medicas<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
+Servers\Esta PC\QueryHistory\24<|||>1<|||>2025-07-01 14:09:05|criterio c|31|DESCRIBE notas_medicas;<{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}><{{{><}}}>
